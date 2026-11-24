@@ -1,12 +1,14 @@
 ---
 layout: page
-title: About
+title: Course information
 description: >-
-    Course policies and information.
+    Course overview, learning outcomes, teaching, and assessment for MAT13.
 ---
 
-# About
+# Course information
 {:.no_toc}
+
+*Autumn 2027 · Bachelor elective · 7.5 ECTS*
 
 ## Table of contents
 {: .no_toc .text-delta }
@@ -16,18 +18,54 @@ description: >-
 
 ---
 
-## About
+## Course overview
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Aliquam ut porttitor leo a diam. Erat nam at lectus urna duis convallis convallis tellus id. Pellentesque elit eget gravida cum sociis natoque penatibus et magnis. Ultrices vitae auctor eu augue ut lectus arcu. Morbi tristique senectus et netus et malesuada. Turpis tincidunt id aliquet risus feugiat in ante. Consequat interdum varius sit amet mattis vulputate enim nulla. Felis eget nunc lobortis mattis aliquam. Eu non diam phasellus vestibulum lorem sed risus. A condimentum vitae sapien pellentesque habitant morbi tristique. Orci dapibus ultrices in iaculis nunc sed augue lacus viverra. Proin sagittis nisl rhoncus mattis rhoncus urna neque. Dictum varius duis at consectetur lorem donec massa sapien. Blandit cursus risus at ultrices mi tempus imperdiet. Laoreet sit amet cursus sit amet dictum sit amet justo. Felis eget nunc lobortis mattis aliquam faucibus. Nam aliquam sem et tortor consequat.
+How should a hospital assign surgeons to operating rooms to help more patients? What is an extra machine hour worth? How should deliveries be routed or jobs scheduled? Students learn to translate business decisions from both the public and private sectors into mathematical models, solve them by hand and in Python, and explain what the results mean for a decision-maker.
 
-## Lecture
+## Topics
 
-Tempus iaculis urna id volutpat lacus laoreet non curabitur gravida. Vulputate dignissim suspendisse in est ante in. Massa vitae tortor condimentum lacinia quis vel. Gravida neque convallis a cras semper auctor. Pellentesque eu tincidunt tortor aliquam nulla. Quam adipiscing vitae proin sagittis nisl rhoncus mattis rhoncus urna. Sit amet purus gravida quis blandit turpis cursus in. Porttitor leo a diam sollicitudin tempor. Vel facilisis volutpat est velit egestas dui id ornare. Cum sociis natoque penatibus et magnis. Tristique magna sit amet purus gravida. Nibh sit amet commodo nulla facilisi nullam vehicula. Aenean vel elit scelerisque mauris pellentesque pulvinar pellentesque. Id semper risus in hendrerit gravida. Sit amet justo donec enim diam vulputate ut pharetra sit. Vitae justo eget magna fermentum. Tellus in metus vulputate eu. Pellentesque id nibh tortor id aliquet lectus proin nibh nisl. Etiam erat velit scelerisque in dictum non consectetur a erat. Pellentesque eu tincidunt tortor aliquam nulla.
+The course provides an introduction to mathematical optimization applied to societal problems.
 
-## Resources
+- Modeling: a structured approach to mathematical optimization problems.
+- Exact methods: linear programming, the simplex method, duality and shadow prices.
+- Heuristic methods: Python software packages such as pyvrp, pyjobshop, and alns.
+- Applications of mathematical optimization in the public and private sectors.
 
-Lacus viverra vitae congue eu. Suspendisse in est ante in nibh mauris cursus mattis. Nisl vel pretium lectus quam id leo in. Euismod lacinia at quis risus sed vulputate odio. Non enim praesent elementum facilisis. Aliquet sagittis id consectetur purus ut faucibus pulvinar elementum integer. Id interdum velit laoreet id donec ultrices tincidunt arcu. Urna molestie at elementum eu facilisis sed odio. Auctor urna nunc id cursus metus aliquam eleifend. Volutpat commodo sed egestas egestas fringilla phasellus. Libero nunc consequat interdum varius sit amet mattis. Imperdiet nulla malesuada pellentesque elit eget gravida cum sociis natoque. Tortor vitae purus faucibus ornare suspendisse. Auctor elit sed vulputate mi.
+## Learning outcomes
 
-## Assignments
+Upon completion of the course, students shall:
 
-Vehicula ipsum a arcu cursus vitae congue. Etiam dignissim diam quis enim lobortis scelerisque fermentum dui. Risus sed vulputate odio ut enim blandit. Aliquam id diam maecenas ultricies mi eget. Id consectetur purus ut faucibus pulvinar elementum integer enim neque. Eget mi proin sed libero enim sed faucibus. Sem integer vitae justo eget magna fermentum iaculis. In mollis nunc sed id semper risus in. Sit amet risus nullam eget felis eget. Mattis ullamcorper velit sed ullamcorper morbi tincidunt ornare massa eget. Nascetur ridiculus mus mauris vitae ultricies leo integer malesuada. Porta non pulvinar neque laoreet suspendisse interdum consectetur libero id. At varius vel pharetra vel turpis nunc eget. Scelerisque purus semper eget duis at tellus.
+### Knowledge
+
+- Understand the key principles of mathematical optimization and its potential impact on society.
+- Understand which methodology is suited to different types of mathematical optimization problems.
+- Be able to identify real-world problems and situations where mathematical optimization can improve decision-making.
+
+### Skills
+
+- Be able to model mathematical optimization problems in a structured fashion.
+- Be able to solve simple mathematical optimization problems by hand and more complex variants using Python.
+- Have developed analytical skills to interpret solver output in light of the problem at hand.
+
+### General competence
+
+- Be able to communicate a recommendation for a mathematical optimization problem, state the assumptions behind it, and explain how changes in the data could affect it.
+
+## Teaching, prerequisites and assessment
+
+### Teaching
+
+One 90-minute lecture and one 90-minute practical per week over 12 weeks. Practicals use Python notebooks, which can be run in Google Colab.
+
+### Recommended prerequisites
+
+Familiarity with Python is strongly recommended.
+
+### Compulsory activity and assessment
+
+- Individual 5-hour written exam graded A–F.
+- Group project (maximum 3 students) on a case study during weeks 5–10.
+
+### Literature
+
+More information will follow.
