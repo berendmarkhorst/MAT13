@@ -15,6 +15,7 @@ Welcome to MAT13 at NHH. This website contains course information, materials, an
 The course is taught by [Berend Markhorst](staff.md), Department of Business and Management Science.
 
 - [Course information and policies](about.md)
+- [Group work](group-work.md)
 - [Announcements](announcements.md)
 - [Course calendar](calendar.md)
 - [Teacher and contact information](staff.md)

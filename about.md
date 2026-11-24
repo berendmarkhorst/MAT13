@@ -64,7 +64,7 @@ Familiarity with Python is strongly recommended.
 ### Compulsory activity and assessment
 
 - Individual 5-hour written exam graded A–F.
-- Group project (maximum 3 students) on a case study during weeks 5–10.
+- [Group project](group-work.md) (maximum 3 students) on a case study during weeks 5–10.
 
 ### Literature
 
